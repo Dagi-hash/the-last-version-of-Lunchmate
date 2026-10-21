@@ -1,0 +1,7 @@
+{
+  "appId": "com.lunchmate.app",
+  "appName": "LunchMate",
+  "webDir": "www",
+  "backgroundColor": "#FAF0CA",
+  "android": { "backgroundColor": "#FAF0CA" }
+}
